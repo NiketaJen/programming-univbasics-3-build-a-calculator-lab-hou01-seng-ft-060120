@@ -26,8 +26,10 @@ def modulo(num1, num2)
   modulo=(34%5)
   puts modulo
   modulo
-endroot(num)
+end
+
+def square_root(num)
 num.to_s=math.sqrt(81)
-puts "#{num
-num
+puts "#{num}"
+"#{num}"
 end

@@ -30,6 +30,6 @@ end
 
 def square_root(num)
 square_root=sqrt(81)
-puts "#{num}"
-"#{num}"
+puts square_root
+square_root
 end

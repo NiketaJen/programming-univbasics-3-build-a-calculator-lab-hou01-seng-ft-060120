@@ -29,7 +29,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-num.to_s=match.sqrt(81)
+square_root=sqrt(81)
 puts "#{num}"
 "#{num}"
 end
